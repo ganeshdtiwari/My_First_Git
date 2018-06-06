@@ -10,6 +10,7 @@ import org.openqa.selenium.interactions.Actions;
 
 public class Hotel {
 
+           //adding comment to just to learn.
 	private static WebDriver driver = null;
 
 	public static void main(String[] args) throws InterruptedException {
